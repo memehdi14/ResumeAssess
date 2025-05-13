@@ -2,7 +2,7 @@ import streamlit as st
 from ResumeShield import process_resume
 import tempfile
 
-st.set_page_config(page_title="Resume Assesment", layout="centered")
+st.set_page_config(page_title="ResumeAssesment", layout="centered")
 
 # ----- Title & Header -----
 st.markdown("<h1 style='text-align: center; color:green;'>🛡 ResumeAssess</h1>", unsafe_allow_html=True)
