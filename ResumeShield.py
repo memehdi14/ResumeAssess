@@ -73,7 +73,7 @@ def process_resume(pdf_path):
     return analyze_resume_with_llm(resume_text)
 
 # For testing
-if _name_ == "_main_":
+if _name_ == "_-main__":
     result = process_resume("path_to_resume.pdf")
     if "error" in result:
         print(result["error"])
