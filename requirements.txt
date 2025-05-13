@@ -1,23 +1,7 @@
-# --- Web Framework ---
 streamlit
-
-# --- PDF Parsing ---
 pdfplumber
-
-# --- Resume AI Agent ---
-langchain==0.1.14
-langchain-google-genai==0.0.8
-google-generativeai==3.20.3
-google-auth
-python-dotenv
-langchain-community
-# --- Data Processing ---
-pandas
-
-# --- Misc Utilities ---
-requests
-tqdm
-
-chromadb==0.4.24
-protobuff==3.20.3
+langchain
+google-generativeai
+langchain-google-genai
+chromadb
 python-dotenv
