@@ -1,0 +1,21 @@
+# --- Web Framework ---
+streamlit
+
+# --- PDF Parsing ---
+pdfplumber
+
+# --- Resume AI Agent ---
+langchain
+langchain-google-genai
+google-genai
+google-auth
+python-dotenv
+langchain-community
+# --- Data Processing ---
+pandas
+
+# --- Misc Utilities ---
+requests
+tqdm
+
+chromadb
