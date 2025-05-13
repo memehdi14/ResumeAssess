@@ -103,7 +103,6 @@ streamlit run resumeshieldapp.py
 ## Contributors
 
 * **Mehdi Namdar** – Developer & AI Integrator
-* ---
 #### About me:-
 ```
 I’m Mehdi Namdar — passionate about AI, automation, and building meaningful tools.
