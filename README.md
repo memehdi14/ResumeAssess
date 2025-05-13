@@ -48,7 +48,7 @@ ResumeAssess is a powerful AI-based Streamlit web app that analyzes resumes (PDF
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/resumeassess.git
+git clone https://github.com/memehdi14/ResumeAssess.git
 cd resumeassess
 ```
 
