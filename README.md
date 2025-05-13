@@ -2,6 +2,9 @@
 
 ResumeAssess is a powerful AI-based Streamlit web app that analyzes resumes (PDF format) using Google's Gemini LLM and LangChain. It identifies discrepancies, detects suspicious claims, and evaluates the credibility of resumes to help HR professionals and recruiters make informed decisions.
 
+[Live Demo](https://verify.streamlit.app)  
+[GitHub Repo](https://github.com/memehdi14/ResumeAssess)
+
 ---
 
 ## Features
