@@ -3,5 +3,5 @@ pdfplumber
 langchain
 google-generativeai
 langchain-google-genai
-chromadb
+faiss-cpu
 python-dotenv
