@@ -37,4 +37,4 @@ if uploaded_file:
         st.text_area("AI Review Output", result["llm_analysis"], height=300)
 
 st.markdown("---")
-st.caption("Built with LangChain + Gemini | by Mehdi Namdar")
+st.caption("Demo| Built with LangChain + Gemini | by Mehdi Namdar")
